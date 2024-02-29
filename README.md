@@ -1,12 +1,4 @@
-<h1 align="center"> Projeto Doação de presentes  </h1>
-
-<h2> o Site conta com animações de Animate On Scroll Library (AOS), contagem regressiva e versão mobile </h2>
-
-<p align="center">
-  <img alt="License" src="https://github.com/EduardoF3lipe/FelizNatal-LandingPage/blob/main/assets/project-picture.JPG?raw=true">
-</p>
-
-
+<h1 align="center"> Site Galeria de fotos.</h1>
 
 <br>
 
@@ -21,4 +13,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📸 Demonstração
 
-Cliquei aqui para ver a [Demo](https://eduardof3lipe.github.io/FelizNatal-LandingPage/) do projeto.
+Cliquei aqui para ver a [Demo](https://eduardof3lipe.github.io/Gallery-Art/) do projeto.
